@@ -1,0 +1,19 @@
+HTML - Hyper Text Markup Language
+CSS - Cascading Style Sheet
+Javascript - SCripting Language
+
+PLANS FOR TIC TAC TOE
+A. Create individual files
+1. HTML
+2. CSS
+3. JS
+
+B. Define the Markup for the game (with HTML)
+MARKUPS: 1. Title
+         2. Game board
+         3. Footer
+         4. Control buttons
+
+C. Style the Game with CSS
+
+D. Write the functionailities of the game
