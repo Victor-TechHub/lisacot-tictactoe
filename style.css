@@ -21,7 +21,6 @@ body {
 header {
     display: grid;
     place-items: center;
-    margin-block: 1rem;
     color: white;
     letter-spacing: 0.15em;
     /* color: transparent;
@@ -47,10 +46,6 @@ footer {
 section {
     display: grid;
     place-items: center;
-
-    button {
-        
-    }
 }
 
 
@@ -143,7 +138,7 @@ section {
 #grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  margin-block: 30px;
+  margin-block: 10px;
   border: none;
 
     div {
